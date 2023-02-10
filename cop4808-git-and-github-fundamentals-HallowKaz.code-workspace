@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "../../cop4808-git-and-github-fundamentals-HallowKaz"
+		},
+		{
+			"name": "Codecademy-Projects",
+			"path": "../Codecademy-Projects"
+		},
+		{
+			"name": "Leetcode-Problems-Solutions",
+			"path": "../Leetcode-Problems-Solutions"
+		},
+		{
+			"name": "React-Portfolio-Website-Project",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Codecademy-Projects"
+	}
+}
